@@ -34,3 +34,7 @@ both inputs are HIGH (1).
 - Testbench development
 - RTL compilation and simulation
 - Waveform analysis
+
+  ## 7. Simulation Waveform
+
+![AND Gate Waveform](and_gate_waveform.png)
